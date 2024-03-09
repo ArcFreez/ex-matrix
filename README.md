@@ -1,2 +1,2 @@
 # matrix-elixir-sdk
-Matrix sdk written in elixir. Learn more about matrix at https://matrix.org/.
+Matrix sdk for elixir/erlang. Learn more about matrix at https://matrix.org/.
